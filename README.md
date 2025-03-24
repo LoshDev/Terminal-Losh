@@ -1,4 +1,4 @@
-# LoshFinder
+# Losh-Terminal
 
 **Losh-Terminal** est un outil gratuit et simple à utiliser qui ne sert pas a grand chose mais cela peut etre stylée, si l'on s'en sert. Il n'y a eu aucune utilisation d'IA!
 
